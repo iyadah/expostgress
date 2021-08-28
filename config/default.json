@@ -1,0 +1,9 @@
+{
+    "user": "root",
+    "host": "devureed.cfc2wyoyqzbt.eu-central-1.rds.amazonaws.com",
+    "database": "dev",  
+    "password": "8BxgUzigXobszJsRmgU",
+    "port":"",
+    "jwtSecret": "Whyme@123"
+}
+
